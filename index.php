@@ -12,7 +12,7 @@ include('phpfile.php');
 
     <title>My Journal</title>
     
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="inde.css">
   
   </head>
   <body>

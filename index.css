@@ -1,0 +1,101 @@
+ body{
+            
+            padding:0;
+            margin:0;
+            font-family:ReithSans,Arial,Helvetica,freesans,sans-serif;
+            background-image:url("secret journal.jpg");
+            background-size:cover;
+            
+        }
+        
+        #signup{
+            
+            background:pink;
+            padding:15px;
+            border: 1px solid black;
+            border-radius:15px;
+            width:400px;
+            float:left;
+            
+        }
+        
+        #signin{
+            
+            background:pink;
+            padding:15px;
+            border: 1px solid black;
+            border-radius:15px;
+            width:400px;
+            float:left;
+            margin-top:30px;
+    
+        }
+        
+        #headertext{
+            
+            text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+            text-align:center;
+            color:Black;
+            padding:5px;
+            margin:20px;
+            
+        } 
+        
+        #signuptext{
+            
+            font-size:30px;
+            text-align:center;
+            font-weight:bold;
+            
+        }
+        
+        #quote{
+            
+            font-style:italic;
+            font-size:30px;
+            color:white;
+            text-shadow: 3px 5px 3px red;
+            line-height:1.5;
+            display: inline-block;
+            vertical-align: middle;
+            
+        }
+        
+        #quotecontainer{
+            
+            line-height:400px;
+            height:400px;
+            width:600px;
+            float:right;
+            text-align:center;
+            
+        }
+        
+        a{
+            
+            text-decoration:none;
+            color:blue;
+            padding-right:5px;
+            font-size:15px;
+            
+        }
+        
+        #error {
+            
+            text-align:center;
+            margin-bottom:30px;
+            color:red;
+            
+        }
+        
+        #selectt{
+            
+            margin:7px 0px;
+            
+        } 
+        
+        #register{
+            
+            border-right:1px solid black;
+            
+        }
